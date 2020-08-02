@@ -1,6 +1,6 @@
 # Hi! I'm Lina 👩🏼‍💻🇨🇴🌎🌖✨🌈🗽💖💜💙
 
-<img src="canvagif.gif" alt="banner that says Lina Montes - Latinx Software Engineer, Studying CS at Yale">
+<img src="https://github.com/linamontes10/linamontes10/blob/main/canvagif.gif?raw=true" width="100%" alt="banner that says Lina Montes - Latinx Software Engineer, Studying CS at Yale">
 I'm a first-generation, non-binary Latinx software engineer currently in my junior year at Yale. My converging identities have fueled my interest in the intersection of technology and activism in order to change my community and world. Technology is a pathway for me to bring my ideas to life.
 <br>
 
