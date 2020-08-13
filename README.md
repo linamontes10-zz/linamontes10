@@ -5,7 +5,7 @@ I'm a first-generation, non-binary Latinx software engineer currently in my juni
 <br>
 <br>
 
-🔭 I’m currently working at Google as a STEP intern
+🔭 I am a 2x Google intern
 
 🌱 I’m currently learning ASL, Portuguese, and Egyptian Hieroglyphics
 
