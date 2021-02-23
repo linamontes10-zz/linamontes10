@@ -5,9 +5,11 @@ I'm a first-generation, non-binary Latinx software engineer currently in my juni
 <br>
 <br>
 
+✨ I am currently interning at Apple as a Data Scientist 
+
 🔭 I am a 2x Google intern
 
-🌱 I’m currently learning ASL, Portuguese, and Egyptian Hieroglyphics
+🌱 I’m currently learning ASL and Portuguese
 
 🦦 Pronouns: They/Them
 
